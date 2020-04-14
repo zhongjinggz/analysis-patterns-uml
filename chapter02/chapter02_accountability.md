@@ -1,4 +1,4 @@
-[English]  [ [中文]](chapter02_accountablity_cn.md)
+[English]  [ [中文]](chapter02_accountability_cn.md)
 # Chapter 2 Accountability
 
 <br/>
