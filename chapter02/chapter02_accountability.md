@@ -8,13 +8,13 @@
 * **Problem**: People and organizational units have similar responsibilities.
 
 * **Solution**: Create a type party as a supertype of person and organization.
-
-
-
-
+  
+  
+  
+  
 ![](figure-2.1.png)
 
-Figure 2.1 Initial model of an address book.
+Figure 2.1 Initial model of an address book.  
 *This model shows the similar responsibilities of person and organization.*
 
 
