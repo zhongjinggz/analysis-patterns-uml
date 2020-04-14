@@ -1,4 +1,4 @@
-[[English]](chapter02_accountablity.md)  [中文]
+[[English]](chapter02_accountability.md)  [中文]
 # 第2章 责任 Accountability
 
 <br/>
