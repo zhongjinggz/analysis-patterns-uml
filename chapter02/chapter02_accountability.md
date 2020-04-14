@@ -27,9 +27,6 @@ Figure 2.2 Figure 2.1 generalized using party.
 
 ## 2.2 Organization Hierarchies
 
-<br/>
-<br/>
-
 * **Problem**: Representing a hierarchical organization structure.
 * **Solution**: Create a recursive association on organization.
 
