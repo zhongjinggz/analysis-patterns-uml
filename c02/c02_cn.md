@@ -1,7 +1,8 @@
-[目录](../README_CN.md)  
+[目录](../README_CN.md) | [[English]](c02_en.md) [中文]
+
 # 第2章 责任 Accountability
 
-[[English]](c02_en.md)  [中文]
+<br/>
 
 <br/>
 

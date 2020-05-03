@@ -1,7 +1,8 @@
-[TOC](../README.md)  
+[TOC](../README.md) | [English] [[中文]](c02_cn.md)
 
 # Chapter 2 Accountability
-[English]  [ [中文]](c02_cn.md)
+
+<br/>
 <br/>
 
 ## 2.1 Party
